@@ -1,0 +1,2 @@
+D:\vs\project\Debug\project.exe
+D:\vs\project\Debug\project.pdb
